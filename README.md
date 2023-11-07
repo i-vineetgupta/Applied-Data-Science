@@ -1,5 +1,5 @@
 # IBM Data Science Professional Certificate | Applied Data Science Capstone
-Coursera Course Link: https://www.coursera.org/professional-certificates/ibm-data-science 
+Coursera Course Link: https://www.coursera.org/programs/btech-ds-5th-sem-2021-25-bf3s7/learn/applied-data-science-capstone?collectionId=rosvd 
 
 ## Instructions: 
 In this week, you will continue working on your capstone project. Please remember by the end of this week, you will need to submit the following:
